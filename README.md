@@ -1,4 +1,4 @@
-# tecnopost
+# Tecno_post
 <h1> Construção de um site chamado TecnoPost de pagina única, em Angular, para postagem semanal e discussão de assuntos relacionados a tecnologia, inteligência artificial e automação.
 </h1>
 
